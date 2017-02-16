@@ -1,0 +1,50 @@
+{
+  "name": "node-snippet-base",
+  "version": "1.0.1",
+  "author": "CloudMine",
+  "license": "MIT",
+  "description": "A starter Node Snippet for CloudMine Snippets",
+  "main": "index.js",
+  "scripts": {
+    "start": "export NODE_ENV=development; node index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/cloudmine/node-snippet-base.git"
+  },
+  "keywords": [
+    "CloudMine",
+    "cloudmine"
+  ],
+  "bugs": {
+    "url": "https://github.com/cloudmine/node-snippet-base/issues"
+  },
+  "homepage": "https://github.com/cloudmine/node-snippet-base",
+  "engines": {
+    "node": "0.10.35",
+    "npm": "2.5.0"
+  },
+  "dependencies": {
+    "cloudmine": "0.9.21",
+    "cloudmine-servercode": "1.0.0",
+    "config": "1.24.0",
+    "localStorage": "1.0.3",
+    "node-cache": "4.1.1",
+    "promise": "7.1.1",
+    "random-key": "0.3.2",
+    "restler": "3.4.0",
+    "underscore": "1.8.3",
+    "uuid": "3.0.1",
+    "validator": "6.2.0",
+    "winston": "2.3.0"
+  },
+  "devDependencies": {
+    "chai": "^3.5.0",
+    "chai-http": "^3.0.0",
+    "frisby": "^0.8.5",
+    "mocha": "3.2.0",
+    "server": "^1.0.0-alpha.16",
+    "supertest": "2.0.1"
+  }
+
+}
