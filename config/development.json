@@ -5,7 +5,8 @@
     "validation_url": "https://identity-qa.cch.healthcare:9031/as/token.oauth2",
     "scim_url":"https://identity-qa.cch.healthcare:9443/scim/v2/Users",
     "scim_schemas":["urn:unboundid:schemas:User:1.0"],
-    "ldap_properties": ["role", "status", "email", "partner_id", "cch_id", "username", "updated_by"]
+    "ldap_properties": ["role", "status", "email", "partner_id", "cch_id", "username", "updated_by"],
+    "role": ["MEMBER", "CAREGIVER", "CAREMANAGER"]
   },
   "cch":{
     "domain": "cch.org"
