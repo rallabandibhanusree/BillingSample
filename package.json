@@ -25,7 +25,7 @@
     "npm": "2.5.0"
   },
   "dependencies": {
-    "cloudmine": "0.9.21",
+    "cloudmine": "0.9.22",
     "cloudmine-servercode": "1.0.0",
     "config": "1.24.0",
     "localStorage": "1.0.3",
