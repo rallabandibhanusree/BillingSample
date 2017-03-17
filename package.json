@@ -25,10 +25,12 @@
     "npm": "2.5.0"
   },
   "dependencies": {
+    "base-64": "0.1.0",
     "cloudmine": "0.9.22",
     "cloudmine-servercode": "1.0.0",
     "config": "1.24.0",
     "localStorage": "1.0.3",
+    "moment": "^2.17.1",
     "node-cache": "4.1.1",
     "promise": "7.1.1",
     "random-key": "0.3.2",
@@ -46,5 +48,4 @@
     "server": "^1.0.0-alpha.16",
     "supertest": "2.0.1"
   }
-
 }
