@@ -10,7 +10,7 @@
     "ldap_properties": ["role", "status", "email", "partner_id", "cch_id", "username", "updated_by"],
     "role": ["MEMBER", "CAREGIVER", "CAREMANAGER"],
     "phone_schema": ["mobile", "home", "office"],
-    "top_level_schema": ["phone", "email", "password", "first_name", "last_name", "address1", "address2", "city", "state", "partner_id", "zip_code", "birthdate", "role", "status", "effective_date", "reason", "full_name",
+    "top_level_schema": ["phones", "email", "password", "first_name", "last_name", "address1", "address2", "city", "state", "partner_id", "zip_code", "birthdate", "role", "status", "effective_date", "reason", "full_name",
       "care_manager"],
     "service_order_schema": ["partner_id", "effective_date", "service_order_id", "operation_type", "service_code"]
   },
