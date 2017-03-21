@@ -13,9 +13,11 @@
 var userAccount = require('./lib/userAccount');
 var listUsers = require('./lib/listUsers');
 var userBehavior = require('./lib/userBehavior');
+var service = require('./lib/service');
 var CloudMineNode = require('cloudmine-servercode');
 var remove_session = require('./lib/logout');
 var cloudmine = require('cloudmine');
+console.log(process.env.NODE_ENV);
 
 // Require any other node module you want...
 
@@ -27,7 +29,8 @@ module.exports = {
   user: userAccount,
   listusers: listUsers,
   logout: remove_session,
-  userbehavior: userBehavior
+  userbehavior: userBehavior,
+  service: service
 };
 
 /**
