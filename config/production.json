@@ -1,6 +1,7 @@
 {
   "ping": {
-    "authorization": "Basic Y2xvdWRtaW5lOktRSGg2UEFBTUF2VnVuTzQ2V0tQNjJZNXhqN012ang2N3d0QzBpZ2J5eTdSVXk4bnhzRTBTd1AzTzU3M1UyVWk=",
+    //"authorization": "Basic Y2xvdWRtaW5lOktRSGg2UEFBTUF2VnVuTzQ2V0tQNjJZNXhqN012ang2N3d0QzBpZ2J5eTdSVXk4bnhzRTBTd1AzTzU3M1UyVWk=",
+    "authorization": "Basic dmFsaWRhdG9yOkg3R0hzaGRLZUQwbVRtY3RMcHY0VEp6MEV6OHVySE1JUHNQcERXUElGN2ZtZ0E2NnZrSGdGWWdFV1ljcFAyNzQ=",
     "grant_type": "urn:pingidentity.com:oauth2:grant_type:validate_bearer",
     "token_type": "access_token",
     "validation_url": "https://identity.cch.healthcare:9031/as/token.oauth2",
