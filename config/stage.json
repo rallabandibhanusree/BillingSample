@@ -17,5 +17,9 @@
   },
   "cch":{
     "domain": "cch.org"
+  },
+  "cloudmine": {
+    "app_id": "6568a4b9faadc44e48c8b1e0be9f09cf",
+    "api_key": "f00e621fceac4a93a461b7bf302d5ca8"
   }
 }
