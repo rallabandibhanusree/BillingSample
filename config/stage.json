@@ -1,7 +1,6 @@
 {
   "ping": {
     "authorization": "Basic Y2xvdWRtaW5lOktRSGg2UEFBTUF2VnVuTzQ2V0tQNjJZNXhqN012ang2N3d0QzBpZ2J5eTdSVXk4bnhzRTBTd1AzTzU3M1UyVWk=",
-    //"authorization": "Basic dmFsaWRhdG9yOkg3R0hzaGRLZUQwbVRtY3RMcHY0VEp6MEV6OHVySE1JUHNQcERXUElGN2ZtZ0E2NnZrSGdGWWdFV1ljcFAyNzQ=",
     "grant_type": "urn:pingidentity.com:oauth2:grant_type:validate_bearer",
     "token_type": "access_token",
     "validation_url": "https://identity-qa.cch.healthcare:9031/as/token.oauth2",
@@ -11,8 +10,9 @@
     "ldap_properties": ["role", "status", "email", "partner_id", "cch_id", "username", "updated_by", "tenant_id"],
     "role": ["MEMBER", "CAREGIVER", "CAREMANAGER"],
     "phone_schema": ["mobile", "home", "office"],
-    "top_level_schema": ["phones", "email", "password", "first_name", "last_name", "address1", "address2", "city", "state", "partner_id", "zipcode", "birthdate", "role", "status", "effective_date", "reason", "full_name",
-    "care_manager", "username", "tenant_id", "relationship", "member_partner_id"],
+    "top_level_schema": ["phones", "email", "password", "first_name", "last_name", "address1", "address2", "city",
+      "state", "partner_id", "zipcode", "birthdate", "role", "status", "effective_date", "reason", "full_name",
+      "care_manager", "username", "tenant_id", "relationship", "member_partner_id"],
     "service_order_schema": ["partner_id", "effective_date", "service_order_id", "operation_type", "service_code"]
   },
   "cch":{
