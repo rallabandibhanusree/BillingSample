@@ -14,6 +14,7 @@ var userAccount = require('./lib/userAccount');
 var listUsers = require('./lib/listUsers');
 var userBehavior = require('./lib/userBehavior');
 var service = require('./lib/service');
+var info = require('./lib/info');
 var CloudMineNode = require('cloudmine-servercode');
 var remove_session = require('./lib/logout');
 var cloudmine = require('cloudmine');
@@ -30,7 +31,8 @@ module.exports = {
   listusers: listUsers,
   logout: remove_session,
   userbehavior: userBehavior,
-  service: service
+  service: service,
+  info: info
 };
 
 /**
