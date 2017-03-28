@@ -37,3 +37,5 @@ Following are the REST endpoint for this app.
 ## Create a zip file to deploy to cloudmine
 
 ``` zip -r app_v8.zip UserAccount/ -x *.git* -x *node_modules* -x *.idea* -x *.cm* -x *.log* ```# CMLDAPUserAccountTests
+
+``` app_version=$(git describe --abbrev=0 --tags); cat release_template.json > release.json; sed -ie "s/{GIT_COMMIT}/$(git log --format="%H" -n 1)/g; s/{APP_VERSION}/${app_version}/g;" release.json; zip -r ../${app_version}.zip . -x *.git* -x *node_modules* -x *.idea* -x *.cm* -x *.log* ```
