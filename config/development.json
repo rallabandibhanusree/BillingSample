@@ -21,7 +21,7 @@
     "standard_keys": ["operation_type", "tenant_id",  "role"]
   },
   "cloudmine": {
-    "app_id": "96fc95210061884d1aab3e4204ff3a1e",
-    "api_key": "0ac9bec7ea0a4d79a92a5e503f3c44b6"
+    "app_id": "50081a21f79f5840329a33ee3a97e2e7",
+    "api_key": "7090bef8ea404fd8b25970806d2d30f3"
   }
 }
