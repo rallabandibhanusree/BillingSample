@@ -7,7 +7,7 @@
     "revoke_token": "https://identity-qa.cch.healthcare:9031/as/revoke_token.oauth2",
     "scim_url":"https://identity-qa.cch.healthcare:9443/scim/v2/Users",
     "scim_schemas":["urn:unboundid:schemas:User:1.0"],
-    "ldap_properties": ["role", "status", "email", "partner_id", "cch_id", "username", "updated_by", "tenant_id"],
+    "ldap_properties": ["role", "status", "email", "partner_id", "cch_id", "username", "updated_by", "tenant_id", "external_id"],
     "role": ["MEMBER", "CAREGIVER", "CAREMANAGER"],
     "phone_schema": ["mobile", "home", "office"],
     "top_level_schema": ["phones", "email", "password", "first_name", "last_name", "address1", "address2", "city",

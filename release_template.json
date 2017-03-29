@@ -1,5 +1,6 @@
 {
   "app": "UserAccount",
+  "env": "{ENV}",
   "version": "{APP_VERSION}",
   "commit": "{GIT_COMMIT}"
 }
