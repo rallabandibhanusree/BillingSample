@@ -28,7 +28,7 @@ frisby.create('POST A USER AS AN ADMIN')
             "address2": "20 marcuhook drive",
             "city": "queens",
             "state": "ny",
-            "partner_id": "marcuhook4456",
+            "external_id": "marcuhook4456",
             "role": "MEMBER",
             "zip_code": "11201",
             "birthdate": "1977-10-10"
@@ -73,7 +73,7 @@ frisby.create('PUT - EDIT THE USER PROFILE')
             "address2": "20 marcuhook drive",
             "city": "queens",
             "state": "ks",
-            "partner_id": "marcuhook4456",
+            "external_id": "marcuhook4456",
             "role": "MEMBER",
             "zip_code": "11201",
             "birthdate": "1977-10-10"
@@ -121,7 +121,7 @@ frisby.create('POST - REQUEST TO  ADD AN EXISTING A USER VIA LDAP INTO CLOUDMINE
             "address2": "20 marcuhook drive",
             "city": "queens",
             "state": "ks",
-            "partner_id": "marcuhook4456",
+            "external_id": "marcuhook4456",
             "role": "MEMBER",
             "zip_code": "11201",
             "birthdate": "1977-10-10"
@@ -148,7 +148,7 @@ frisby.create('Ensure we can search')
         last_name: 'singh',
         address1: '123dds',
         address2: '124sdfdfsdfs',
-        partner_id: '3',
+ external_id: '3',
         city: 'bordentow',
         first_name: 'harvinder',
         birthdate: '1988-04-15',
@@ -190,7 +190,7 @@ frisby.create('POST A USER AS AN ADMIN')
             "address2": "jimmyjazz drive",
             "city": "Harlem",
             "state": "NY",
-            "partner_id": "kimbjimmyjazz1902",
+            "external_id": "kimbjimmyjazz1902",
             "zip_code": "19707",
             "birthdate": "1978-11-21"
         },{ json: true })
@@ -223,7 +223,7 @@ frisby.create('PUT - EDIT THE USER PROFILE')
             "address2": "jimmyjazz drive",
             "city": "Harlem",
             "state": "NY",
-            "partner_id": "kimbjimmyjazz1902",
+            "external_id": "kimbjimmyjazz1902",
             "zip_code": "19707",
             "birthdate": "1978-11-21"
         },
@@ -256,7 +256,7 @@ frisby.create('POST - REQUEST TO  ADD AN EXISTING A USER VIA LDAP INTO CLOUDMINE
             "address2": "jimmyjazz drive",
             "city": "Harlem",
             "state": "NY",
-            "partner_id": "kimbjimmyjazz1902",
+            "external_id": "kimbjimmyjazz1902",
             "zip_code": "19707",
             "birthdate": "1978-11-21"
         },
