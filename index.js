@@ -17,6 +17,7 @@ var service = require('./lib/service');
 var info = require('./lib/info');
 var CloudMineNode = require('cloudmine-servercode');
 var remove_session = require('./lib/logout');
+var userStatus = require('./lib/userStatus');
 var cloudmine = require('cloudmine');
 console.log(process.env.NODE_ENV);
 
@@ -32,7 +33,8 @@ module.exports = {
   logout: remove_session,
   userbehavior: userBehavior,
   service: service,
-  info: info
+  info: info,
+  userstatus:userStatus
 };
 
 /**

@@ -12,7 +12,7 @@
     "phone_schema": ["mobile", "home", "office"],
     "top_level_schema": ["phones", "email", "password", "first_name", "last_name", "address1", "address2", "city",
       "state", "zipcode", "birthdate", "role", "status", "effective_date", "reason", "full_name",
-      "username", "tenant_id", "relationship", "external_id", "member_external_id", "caremanager_external_id"],
+      "username", "tenant_id", "relationship", "external_id", "member_external_id", "caremanager_external_id", "cch_id"],
     "service_order_schema": ["effective_date", "service_order_id", "operation_type", "service_code", "external_id"]
   },
   "cch":{
