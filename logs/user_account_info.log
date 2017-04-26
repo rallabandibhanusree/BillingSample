@@ -1,0 +1,305 @@
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 1:42:57 PM"}
+{"level":"info","message":"User profile found and returned","timestamp":"4/20/2017, 1:42:57 PM"}
+{"level":"info","message":"Search request completed successfully","timestamp":"4/20/2017, 1:42:57 PM"}
+{"level":"info","message":"success => It took 643 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/user","timestamp":"4/20/2017, 1:42:57 PM"}
+{"401":{"errors":["Permission denied"]},"level":"error","message":"","timestamp":"4/20/2017, 3:22:08 PM"}
+{"401":{"errors":["Permission denied"]},"level":"error","message":"","timestamp":"4/20/2017, 3:23:02 PM"}
+{"level":"error","message":"Did not return within 10000 ms","timestamp":"4/20/2017, 3:23:27 PM"}
+{"401":{"errors":["Permission denied"]},"level":"error","message":"","timestamp":"4/20/2017, 3:32:59 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 3:38:52 PM"}
+{"level":"info","message":"failed => It took 418 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 3:38:52 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 4:02:43 PM"}
+{"400":{"errors":["Invalid query: Failed to match sequence (root:MULTI_OBJECT_KEY_MATCHER KEY_CHAIN{0, }) at line 1 char 1."]},"level":"error","message":"","timestamp":"4/20/2017, 4:02:44 PM"}
+{"level":"error","message":"Error at getUserProfileBasedOnReq: searching as [[object Object]]","timestamp":"4/20/2017, 4:02:44 PM"}
+{"level":"info","message":"failed => It took 667 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 4:02:44 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 4:05:54 PM"}
+{"level":"info","message":"failed => It took 596 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 4:05:55 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 4:09:14 PM"}
+{"level":"info","message":"failed => It took 1721 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 4:09:14 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 4:10:22 PM"}
+{"level":"info","message":"failed => It took 557 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 4:10:22 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 4:15:23 PM"}
+{"level":"info","message":"failed => It took 1645 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 4:15:23 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 4:16:48 PM"}
+{"level":"info","message":"failed => It took 627 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 4:16:48 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/20/2017, 4:17:50 PM"}
+{"level":"info","message":"failed => It took 89 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 4:17:50 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/20/2017, 4:18:46 PM"}
+{"level":"info","message":"failed => It took 226 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 4:18:47 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 4:20:31 PM"}
+{"level":"info","message":"failed => It took 3630 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 4:20:31 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 4:30:42 PM"}
+{"level":"info","message":"failed => It took 550 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 4:30:42 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/20/2017, 4:32:11 PM"}
+{"level":"info","message":"failed => It took 105 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 4:32:11 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/20/2017, 4:32:23 PM"}
+{"level":"info","message":"Search request completed successfully","timestamp":"4/20/2017, 4:32:23 PM"}
+{"level":"info","message":"failed => It took 107 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/user","timestamp":"4/20/2017, 4:32:23 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/20/2017, 4:32:41 PM"}
+{"level":"info","message":"failed => It took 263 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 4:32:41 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 4:35:24 PM"}
+{"400":{"errors":["Invalid query: Failed to match sequence (root:MULTI_OBJECT_KEY_MATCHER KEY_CHAIN{0, }) at line 1 char 3."]},"level":"error","message":"","timestamp":"4/20/2017, 4:35:24 PM"}
+{"level":"error","message":"Error at getUserProfileBasedOnReq: searching as last_name=\"List\"","timestamp":"4/20/2017, 4:35:24 PM"}
+{"level":"info","message":"failed => It took 584 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 4:35:24 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/20/2017, 4:35:50 PM"}
+{"400":{"errors":["Invalid query: Failed to match sequence (root:MULTI_OBJECT_KEY_MATCHER KEY_CHAIN{0, }) at line 1 char 3."]},"level":"error","message":"","timestamp":"4/20/2017, 4:35:50 PM"}
+{"level":"error","message":"Error at getUserProfileBasedOnReq: searching as event_type=\"login\"","timestamp":"4/20/2017, 4:35:50 PM"}
+{"level":"info","message":"failed => It took 446 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 4:35:50 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 4:38:31 PM"}
+{"400":{"errors":["Invalid query: Failed to match sequence (root:MULTI_OBJECT_KEY_MATCHER KEY_CHAIN{0, }) at line 1 char 1."]},"level":"error","message":"","timestamp":"4/20/2017, 4:38:32 PM"}
+{"level":"error","message":"Error at getUserProfileBasedOnReq: searching as [event_type=undefined]","timestamp":"4/20/2017, 4:38:32 PM"}
+{"level":"info","message":"failed => It took 799 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 4:38:32 PM"}
+{"error_description":"token not found, expired or invalid","error":"invalid_grant","level":"error","message":"","timestamp":"4/20/2017, 9:56:16 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 9:56:35 PM"}
+{"level":"info","message":"failed => It took 742 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 9:56:36 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/20/2017, 10:00:33 PM"}
+{"level":"info","message":"failed => It took 200 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 10:00:33 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 10:03:15 PM"}
+{"level":"info","message":"failed => It took 1404 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 10:03:16 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 10:08:13 PM"}
+{"400":{"errors":["Invalid query: Failed to match sequence (root:MULTI_OBJECT_KEY_MATCHER KEY_CHAIN{0, }) at line 1 char 1."]},"level":"error","message":"","timestamp":"4/20/2017, 10:08:13 PM"}
+{"level":"error","message":"Error at getUserProfileBasedOnReq: searching as [tenantId = tenantTest12345]","timestamp":"4/20/2017, 10:08:13 PM"}
+{"level":"info","message":"failed => It took 825 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 10:08:13 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 10:10:25 PM"}
+{"400":{"errors":["Invalid query: Failed to match sequence (root:MULTI_OBJECT_KEY_MATCHER KEY_CHAIN{0, }) at line 1 char 1."]},"level":"error","message":"","timestamp":"4/20/2017, 10:10:25 PM"}
+{"level":"error","message":"Error at getUserProfileBasedOnReq: searching as [tenantId = tenantTest12345]","timestamp":"4/20/2017, 10:10:25 PM"}
+{"level":"info","message":"failed => It took 1089 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 10:10:25 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/20/2017, 10:10:42 PM"}
+{"400":{"errors":["Invalid query: Failed to match sequence (root:MULTI_OBJECT_KEY_MATCHER KEY_CHAIN{0, }) at line 1 char 1."]},"level":"error","message":"","timestamp":"4/20/2017, 10:10:42 PM"}
+{"level":"error","message":"Error at getUserProfileBasedOnReq: searching as [tenantId = tenantTest12345]","timestamp":"4/20/2017, 10:10:42 PM"}
+{"level":"info","message":"failed => It took 374 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 10:10:42 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 10:17:14 PM"}
+{"400":{"errors":["Invalid query: Failed to match sequence (root:MULTI_OBJECT_KEY_MATCHER KEY_CHAIN{0, }) at line 1 char 1."]},"level":"error","message":"","timestamp":"4/20/2017, 10:17:14 PM"}
+{"level":"error","message":"Error at getUserProfileBasedOnReq: searching as [tenantdscId = tenantTest12345]","timestamp":"4/20/2017, 10:17:14 PM"}
+{"level":"info","message":"failed => It took 1078 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 10:17:14 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 10:17:59 PM"}
+{"400":{"errors":["Invalid query: Failed to match sequence (root:MULTI_OBJECT_KEY_MATCHER KEY_CHAIN{0, }) at line 1 char 1."]},"level":"error","message":"","timestamp":"4/20/2017, 10:17:59 PM"}
+{"level":"error","message":"Error at getUserProfileBasedOnReq: searching as [tenantdscId = tenantTest12345]","timestamp":"4/20/2017, 10:17:59 PM"}
+{"level":"info","message":"failed => It took 878 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 10:17:59 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 10:20:49 PM"}
+{"400":{"errors":["Invalid query: Failed to match sequence (root:MULTI_OBJECT_KEY_MATCHER KEY_CHAIN{0, }) at line 1 char 1."]},"level":"error","message":"","timestamp":"4/20/2017, 10:20:50 PM"}
+{"level":"error","message":"Error at getUserProfileBasedOnReq: searching as [tenantdscId = tenantTest12345]","timestamp":"4/20/2017, 10:20:50 PM"}
+{"level":"info","message":"failed => It took 893 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 10:20:50 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 10:21:19 PM"}
+{"400":{"errors":["Invalid query: Failed to match sequence (root:MULTI_OBJECT_KEY_MATCHER KEY_CHAIN{0, }) at line 1 char 1."]},"level":"error","message":"","timestamp":"4/20/2017, 10:21:19 PM"}
+{"level":"error","message":"Error at getUserProfileBasedOnReq: searching as [tenantId = tenantTest12345]","timestamp":"4/20/2017, 10:21:19 PM"}
+{"level":"info","message":"failed => It took 965 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 10:21:19 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 10:22:02 PM"}
+{"400":{"errors":["Invalid query: Failed to match sequence (root:MULTI_OBJECT_KEY_MATCHER KEY_CHAIN{0, }) at line 1 char 1."]},"level":"error","message":"","timestamp":"4/20/2017, 10:22:02 PM"}
+{"level":"error","message":"Error at getUserProfileBasedOnReq: searching as [tenantId = tenantTest12345]","timestamp":"4/20/2017, 10:22:02 PM"}
+{"level":"info","message":"failed => It took 790 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 10:22:02 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 10:25:35 PM"}
+{"level":"info","message":"failed => It took 1470 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 10:25:35 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 10:44:04 PM"}
+{"level":"info","message":"failed => It took 1045 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 10:44:04 PM"}
+{"date":"Thu Apr 20 2017 22:46:06 GMT-0400 (Eastern Daylight Time)","process":{"pid":9712,"uid":null,"gid":null,"cwd":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v6.10.2","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\index.js"],"memoryUsage":{"rss":33923072,"heapTotal":19959808,"heapUsed":11239328,"external":76474}},"os":{"loadavg":[0,0,0],"uptime":128981.6429107},"trace":[{"column":10,"file":"vm.js","function":"createScript","line":56,"method":null,"native":false},{"column":10,"file":"vm.js","function":"Object.runInThisContext","line":97,"method":"runInThisContext","native":false},{"column":28,"file":"module.js","function":"Module._compile","line":542,"method":"_compile","native":false},{"column":10,"file":"module.js","function":"Object.Module._extensions..js","line":579,"method":"Module._extensions..js","native":false},{"column":32,"file":"module.js","function":"Module.load","line":487,"method":"load","native":false},{"column":12,"file":"module.js","function":"tryModuleLoad","line":446,"method":null,"native":false},{"column":3,"file":"module.js","function":"Function.Module._load","line":438,"method":"Module._load","native":false},{"column":17,"file":"module.js","function":"Module.require","line":497,"method":"require","native":false},{"column":19,"file":"internal/module.js","function":"require","line":20,"method":null,"native":false},{"column":20,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\lib\\userAccount.js","function":"","line":15,"method":null,"native":false}],"stack":["C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\lib\\search.js:31","        return new Promise(resolve, reject){","                                           ^","SyntaxError: Unexpected token {","    at createScript (vm.js:56:10)","    at Object.runInThisContext (vm.js:97:10)","    at Module._compile (module.js:542:28)","    at Object.Module._extensions..js (module.js:579:10)","    at Module.load (module.js:487:32)","    at tryModuleLoad (module.js:446:12)","    at Function.Module._load (module.js:438:3)","    at Module.require (module.js:497:17)","    at require (internal/module.js:20:19)","    at Object.<anonymous> (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\lib\\userAccount.js:15:20)"],"level":"error","message":"uncaughtException: Unexpected token {","timestamp":"4/20/2017, 10:46:06 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 10:47:06 PM"}
+{"level":"info","message":"failed => It took 926 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 10:47:06 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/20/2017, 10:58:02 PM"}
+{"level":"info","message":"failed => It took 1464 milliseconds for the GET call at this endpoint /v1/app/bf8ce1330b95534cb5ba217f48970005/run/billing","timestamp":"4/20/2017, 10:58:02 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call, access_token is missing from the session, api_key is missing from the session","timestamp":"4/21/2017, 11:28:50 AM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/21/2017, 11:36:03 AM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/23/2017, 9:44:38 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/23/2017, 9:45:28 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/23/2017, 9:46:14 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/23/2017, 9:46:39 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/23/2017, 9:50:34 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/23/2017, 9:51:19 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/23/2017, 9:53:59 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/23/2017, 9:58:57 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/23/2017, 10:04:38 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/23/2017, 10:06:31 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/23/2017, 10:09:47 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/23/2017, 10:16:18 PM"}
+{"level":"info","message":"failed => It took 64 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:16:18 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/23/2017, 10:18:10 PM"}
+{"level":"info","message":"failed => It took 67 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:18:10 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/23/2017, 10:23:03 PM"}
+{"level":"info","message":"failed => It took 53 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:23:03 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/23/2017, 10:23:45 PM"}
+{"level":"info","message":"failed => It took 44 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:23:46 PM"}
+{"level":"info","message":"failed => It took 3 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:25:55 PM"}
+{"level":"info","message":"failed => It took 2 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:28:34 PM"}
+{"level":"info","message":"failed => It took 5 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:30:59 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/23/2017, 10:31:55 PM"}
+{"level":"info","message":"billing object created successfully","timestamp":"4/23/2017, 10:31:55 PM"}
+{"date":"Sun Apr 23 2017 22:31:55 GMT-0400 (Eastern Daylight Time)","process":{"pid":5140,"uid":null,"gid":null,"cwd":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v6.10.2","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\index.js"],"memoryUsage":{"rss":53223424,"heapTotal":38817792,"heapUsed":24302352,"external":822669}},"os":{"loadavg":[0,0,0],"uptime":184169.6906535},"trace":[{"column":25,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\lib\\billingEventObject.js","function":"","line":32,"method":null,"native":false},{"column":20,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":"","line":1581,"method":null,"native":false},{"column":20,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":null,"line":1599,"method":null,"native":false},{"column":null,"file":null,"function":"Array.forEach","line":null,"method":"forEach","native":true},{"column":30,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":"each","line":2129,"method":null,"native":false},{"column":9,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":"Object.trigger","line":1598,"method":"trigger","native":false},{"column":15,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":"Function.APICall.complete","line":1754,"method":"APICall.complete","native":false},{"column":17,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":"Timeout._onTimeout","line":1549,"method":"_onTimeout","native":false},{"column":14,"file":"timers.js","function":"ontimeout","line":380,"method":null,"native":false},{"column":5,"file":"timers.js","function":"tryOnTimeout","line":244,"method":null,"native":false}],"stack":["ReferenceError: ProfileData is not defined","    at Object.<anonymous> (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\lib\\billingEventObject.js:32:25)","    at Object.<anonymous> (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:1581:20)","    at C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:1599:20","    at Array.forEach (native)","    at each (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:2129:30)","    at Object.trigger (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:1598:9)","    at Function.APICall.complete (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:1754:15)","    at Timeout._onTimeout (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:1549:17)","    at ontimeout (timers.js:380:14)","    at tryOnTimeout (timers.js:244:5)"],"level":"error","message":"uncaughtException: ProfileData is not defined","timestamp":"4/23/2017, 10:31:55 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/23/2017, 10:36:35 PM"}
+{"level":"info","message":"billing object created successfully","timestamp":"4/23/2017, 10:36:35 PM"}
+{"level":"info","message":"success => It took 937 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:36:35 PM"}
+{"level":"info","message":"No need to login, resume existing session","timestamp":"4/23/2017, 10:38:47 PM"}
+{"level":"info","message":"failed => It took 6 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:38:47 PM"}
+{"level":"info","message":"No need to login, resume existing session","timestamp":"4/23/2017, 10:39:56 PM"}
+{"400":{"errors":["Invalid query: Failed to match sequence (root:MULTI_OBJECT_KEY_MATCHER KEY_CHAIN{0, }) at line 1 char 1."]},"level":"error","message":"","timestamp":"4/23/2017, 10:39:57 PM"}
+{"level":"error","message":"Error at getUserProfileBasedOnReq: searching as ","timestamp":"4/23/2017, 10:39:57 PM"}
+{"level":"info","message":"failed => It took 347 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:39:57 PM"}
+{"level":"info","message":"No need to login, resume existing session","timestamp":"4/23/2017, 10:40:08 PM"}
+{"level":"info","message":"failed => It took 215 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:40:08 PM"}
+{"level":"info","message":"No need to login, resume existing session","timestamp":"4/23/2017, 10:40:39 PM"}
+{"level":"info","message":"failed => It took 292 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:40:40 PM"}
+{"level":"info","message":"No need to login, resume existing session","timestamp":"4/23/2017, 10:40:57 PM"}
+{"level":"info","message":"failed => It took 156 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:40:57 PM"}
+{"level":"info","message":"No need to login, resume existing session","timestamp":"4/23/2017, 10:40:59 PM"}
+{"level":"info","message":"failed => It took 175 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:40:59 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/23/2017, 10:41:42 PM"}
+{"level":"info","message":"failed => It took 1128 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:41:42 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/23/2017, 10:44:20 PM"}
+{"level":"info","message":"failed => It took 1099 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:44:21 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/23/2017, 10:52:15 PM"}
+{"400":{"errors":["Invalid query: Failed to match sequence (root:MULTI_OBJECT_KEY_MATCHER KEY_CHAIN{0, }) at line 1 char 1."]},"level":"error","message":"","timestamp":"4/23/2017, 10:52:15 PM"}
+{"level":"error","message":"Error at getUserProfileBasedOnReq: searching as [tenantId = tenantTest12345]","timestamp":"4/23/2017, 10:52:15 PM"}
+{"level":"info","message":"failed => It took 1254 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:52:15 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/23/2017, 10:56:26 PM"}
+{"level":"info","message":"billing object created successfully","timestamp":"4/23/2017, 10:56:26 PM"}
+{"level":"info","message":"success => It took 863 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:56:26 PM"}
+{"level":"info","message":"No need to login, resume existing session","timestamp":"4/23/2017, 10:56:37 PM"}
+{"level":"info","message":"failed => It took 9 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:56:37 PM"}
+{"level":"info","message":"No need to login, resume existing session","timestamp":"4/23/2017, 10:57:33 PM"}
+{"level":"info","message":"failed => It took 363 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:57:34 PM"}
+{"level":"info","message":"No need to login, resume existing session","timestamp":"4/23/2017, 10:57:44 PM"}
+{"level":"info","message":"failed => It took 154 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 10:57:44 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/23/2017, 11:00:35 PM"}
+{"level":"info","message":"failed => It took 1070 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 11:00:36 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/23/2017, 11:17:40 PM"}
+{"level":"info","message":"billing object created successfully","timestamp":"4/23/2017, 11:17:40 PM"}
+{"date":"Sun Apr 23 2017 23:17:40 GMT-0400 (Eastern Daylight Time)","process":{"pid":1148,"uid":null,"gid":null,"cwd":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v6.10.2","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\index.js"],"memoryUsage":{"rss":52682752,"heapTotal":38817792,"heapUsed":24465336,"external":822669}},"os":{"loadavg":[0,0,0],"uptime":186915.2256891},"trace":[{"column":25,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\lib\\billingEventObject.js","function":"","line":32,"method":null,"native":false},{"column":20,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":"","line":1581,"method":null,"native":false},{"column":20,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":null,"line":1599,"method":null,"native":false},{"column":null,"file":null,"function":"Array.forEach","line":null,"method":"forEach","native":true},{"column":30,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":"each","line":2129,"method":null,"native":false},{"column":9,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":"Object.trigger","line":1598,"method":"trigger","native":false},{"column":15,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":"Function.APICall.complete","line":1754,"method":"APICall.complete","native":false},{"column":17,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":"Timeout._onTimeout","line":1549,"method":"_onTimeout","native":false},{"column":14,"file":"timers.js","function":"ontimeout","line":380,"method":null,"native":false},{"column":5,"file":"timers.js","function":"tryOnTimeout","line":244,"method":null,"native":false}],"stack":["ReferenceError: ProfileData is not defined","    at Object.<anonymous> (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\lib\\billingEventObject.js:32:25)","    at Object.<anonymous> (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:1581:20)","    at C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:1599:20","    at Array.forEach (native)","    at each (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:2129:30)","    at Object.trigger (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:1598:9)","    at Function.APICall.complete (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:1754:15)","    at Timeout._onTimeout (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:1549:17)","    at ontimeout (timers.js:380:14)","    at tryOnTimeout (timers.js:244:5)"],"level":"error","message":"uncaughtException: ProfileData is not defined","timestamp":"4/23/2017, 11:17:41 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/23/2017, 11:18:40 PM"}
+{"level":"info","message":"billing object created successfully","timestamp":"4/23/2017, 11:18:40 PM"}
+{"level":"info","message":"success => It took 1007 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 11:18:40 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/23/2017, 11:19:50 PM"}
+{"level":"info","message":"failed => It took 578 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 11:19:50 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/23/2017, 11:20:25 PM"}
+{"level":"info","message":"billing object created successfully","timestamp":"4/23/2017, 11:20:25 PM"}
+{"level":"info","message":"success => It took 746 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 11:20:25 PM"}
+{"level":"info","message":"No need to login, resume existing session","timestamp":"4/23/2017, 11:21:35 PM"}
+{"level":"info","message":"failed => It took 194 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 11:21:36 PM"}
+{"level":"info","message":"No need to login, resume existing session","timestamp":"4/23/2017, 11:25:38 PM"}
+{"level":"info","message":"failed => It took 271 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 11:25:39 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/23/2017, 11:54:09 PM"}
+{"level":"info","message":"billing object created successfully","timestamp":"4/23/2017, 11:54:09 PM"}
+{"level":"info","message":"success => It took 1435 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 11:54:09 PM"}
+{"level":"info","message":"No need to login, resume existing session","timestamp":"4/23/2017, 11:55:33 PM"}
+{"level":"info","message":"failed => It took 164 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 11:55:33 PM"}
+{"level":"info","message":"No need to login, resume existing session","timestamp":"4/23/2017, 11:56:59 PM"}
+{"level":"info","message":"billing object created successfully","timestamp":"4/23/2017, 11:56:59 PM"}
+{"level":"info","message":"success => It took 171 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 11:56:59 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/23/2017, 11:58:34 PM"}
+{"level":"info","message":"billing object created successfully","timestamp":"4/23/2017, 11:58:34 PM"}
+{"level":"info","message":"success => It took 744 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/23/2017, 11:58:34 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 12:01:42 AM"}
+{"level":"info","message":"billing object created successfully","timestamp":"4/24/2017, 12:01:42 AM"}
+{"level":"info","message":"success => It took 1287 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 12:01:42 AM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 12:02:30 AM"}
+{"level":"info","message":"billing object created successfully","timestamp":"4/24/2017, 12:02:30 AM"}
+{"level":"info","message":"success => It took 762 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 12:02:30 AM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 12:04:41 AM"}
+{"level":"info","message":"billing object created successfully","timestamp":"4/24/2017, 12:04:41 AM"}
+{"level":"info","message":"success => It took 754 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 12:04:41 AM"}
+{"level":"info","message":"No need to login, resume existing session","timestamp":"4/24/2017, 12:07:04 AM"}
+{"level":"info","message":"failed => It took 235 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 12:07:04 AM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 12:10:31 AM"}
+{"level":"info","message":"failed => It took 1165 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 12:10:31 AM"}
+{"level":"info","message":"No need to login, resume existing session","timestamp":"4/24/2017, 12:11:40 AM"}
+{"level":"info","message":"failed => It took 214 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 12:11:40 AM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 12:12:29 AM"}
+{"level":"info","message":"failed => It took 1045 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 12:12:29 AM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 12:14:04 AM"}
+{"level":"info","message":"failed => It took 722 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 12:14:04 AM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 12:17:19 AM"}
+{"level":"info","message":"failed => It took 823 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 12:17:19 AM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 12:22:16 AM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 12:24:32 AM"}
+{"level":"info","message":"success => It took 1244 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 12:24:32 AM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 12:26:01 AM"}
+{"level":"info","message":"failed => It took 778 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 12:26:01 AM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 12:27:43 AM"}
+{"level":"info","message":"success => It took 1051 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 12:27:43 AM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 9:58:40 AM"}
+{"level":"info","message":"User profile found and returned","timestamp":"4/24/2017, 9:58:40 AM"}
+{"level":"info","message":"Search request completed successfully","timestamp":"4/24/2017, 9:58:40 AM"}
+{"level":"info","message":"success => It took 715 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/user","timestamp":"4/24/2017, 9:58:41 AM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 11:17:42 AM"}
+{"level":"info","message":"User profile found and returned","timestamp":"4/24/2017, 11:17:43 AM"}
+{"level":"info","message":"Search request completed successfully","timestamp":"4/24/2017, 11:17:43 AM"}
+{"level":"info","message":"success => It took 547 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/user","timestamp":"4/24/2017, 11:17:43 AM"}
+{"error_description":"token not found, expired or invalid","error":"invalid_grant","level":"error","message":"","timestamp":"4/24/2017, 12:33:29 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 12:35:15 PM"}
+{"level":"info","message":"failed => It took 471 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 12:35:15 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 2:02:08 PM"}
+{"level":"info","message":"failed => It took 640 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 2:02:08 PM"}
+{"level":"info","message":"No need to login, resume existing session","timestamp":"4/24/2017, 2:03:53 PM"}
+{"level":"info","message":"failed => It took 4 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 2:03:53 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/24/2017, 2:06:34 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/24/2017, 2:12:43 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/24/2017, 2:15:16 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/24/2017, 2:16:46 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/24/2017, 2:18:12 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/24/2017, 2:21:16 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/24/2017, 2:21:43 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/24/2017, 2:27:44 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/24/2017, 2:34:18 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/24/2017, 3:08:26 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/24/2017, 3:10:57 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/24/2017, 3:11:34 PM"}
+{"message":"cosole is not defined","stack":"ReferenceError: cosole is not defined\n    at C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\lib\\billingEvent.js:108:25\n    at tryCallOne (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\promise\\lib\\core.js:37:12)\n    at C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\promise\\lib\\core.js:123:15\n    at flush (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\asap\\raw.js:50:29)\n    at _combinedTickCallback (internal/process/next_tick.js:73:7)\n    at process._tickDomainCallback (internal/process/next_tick.js:128:9)","level":"error","timestamp":"4/24/2017, 3:13:02 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/24/2017, 3:15:17 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 3:18:45 PM"}
+{"level":"error","message":"{, \"tenant_id\", \"cch_id\", \"event_type\", \"event_details\", \"name\", \"id\", },  Not allowed to have Keys in the service order schema, event_type cannot be undefined or empty, event_details cannot be undefined or empty","timestamp":"4/24/2017, 3:18:45 PM"}
+{"level":"info","message":"failed => It took 532 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 3:18:45 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 3:22:41 PM"}
+{"level":"error","message":"{, \"tenant_id\", \"cch_id\", \"event_type\", \"event_details\", \"name\", \"id\", },  Not allowed to have Keys in the billing event schema, event_type cannot be undefined or empty, event_details cannot be undefined or empty","timestamp":"4/24/2017, 3:22:41 PM"}
+{"level":"info","message":"failed => It took 510 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 3:22:41 PM"}
+{"level":"error","message":"External Id must be in the payload to make a call","timestamp":"4/24/2017, 3:38:57 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 3:40:39 PM"}
+{"level":"error","message":"event_details Cannot be an object","timestamp":"4/24/2017, 3:40:39 PM"}
+{"level":"info","message":"failed => It took 541 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 3:40:39 PM"}
+{"error_description":"token not found, expired or invalid","error":"invalid_grant","level":"error","message":"","timestamp":"4/24/2017, 8:03:28 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 8:04:04 PM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"4/24/2017, 8:04:05 PM"}
+{"message":"update_obj is not defined","stack":"ReferenceError: update_obj is not defined\n    at C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\lib\\billingEventObject.js:91:25\n    at process._tickDomainCallback (internal/process/next_tick.js:135:7)","level":"error","timestamp":"4/24/2017, 8:04:05 PM"}
+{"level":"info","message":"failed => It took 1702 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 8:04:05 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 8:18:48 PM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"4/24/2017, 8:18:49 PM"}
+{"message":"createBillingObjectInCLM is not defined","stack":"ReferenceError: createBillingObjectInCLM is not defined\n    at C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\lib\\billingEventObject.js:92:25\n    at process._tickDomainCallback (internal/process/next_tick.js:135:7)","level":"error","timestamp":"4/24/2017, 8:18:49 PM"}
+{"level":"info","message":"failed => It took 2032 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 8:18:49 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/24/2017, 8:19:50 PM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"4/24/2017, 8:19:51 PM"}
+{"level":"info","message":"Billing event created successfully","timestamp":"4/24/2017, 8:19:51 PM"}
+{"level":"info","message":"success => It took 1662 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 8:19:51 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/24/2017, 8:21:14 PM"}
+{"400":{"errors":["Invalid query: Failed to match sequence (root:MULTI_OBJECT_KEY_MATCHER KEY_CHAIN{0, }) at line 1 char 1."]},"level":"error","message":"","timestamp":"4/24/2017, 8:21:15 PM"}
+{"level":"error","message":"Error at getUserProfileBasedOnReq: searching as [undefined]","timestamp":"4/24/2017, 8:21:15 PM"}
+{"level":"info","message":"failed => It took 142 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 8:21:15 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/24/2017, 8:22:08 PM"}
+{"level":"info","message":"success => It took 188 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/24/2017, 8:22:09 PM"}
+{"error_description":"token not found, expired or invalid","error":"invalid_grant","level":"error","message":"","timestamp":"4/25/2017, 9:46:19 AM"}
+{"level":"info","message":"Login successful","timestamp":"4/25/2017, 10:15:36 AM"}
+{"date":"Tue Apr 25 2017 10:15:37 GMT-0400 (Eastern Daylight Time)","process":{"pid":11188,"uid":null,"gid":null,"cwd":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v6.10.2","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\index.js"],"memoryUsage":{"rss":53071872,"heapTotal":38817792,"heapUsed":24202472,"external":818593}},"os":{"loadavg":[0,0,0],"uptime":234701.2067459},"trace":[{"column":32,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\lib\\billingEvent.js","function":"","line":55,"method":null,"native":false},{"column":20,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":"","line":1581,"method":null,"native":false},{"column":20,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":null,"line":1599,"method":null,"native":false},{"column":null,"file":null,"function":"Array.forEach","line":null,"method":"forEach","native":true},{"column":30,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":"each","line":2129,"method":null,"native":false},{"column":9,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":"Object.trigger","line":1598,"method":"trigger","native":false},{"column":15,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":"Function.APICall.complete","line":1754,"method":"APICall.complete","native":false},{"column":17,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":"Timeout._onTimeout","line":1549,"method":"_onTimeout","native":false},{"column":14,"file":"timers.js","function":"ontimeout","line":380,"method":null,"native":false},{"column":5,"file":"timers.js","function":"tryOnTimeout","line":244,"method":null,"native":false}],"stack":["TypeError: billingEventObject.updatebillingObject is not a function","    at Object.<anonymous> (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\lib\\billingEvent.js:55:32)","    at Object.<anonymous> (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:1581:20)","    at C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:1599:20","    at Array.forEach (native)","    at each (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:2129:30)","    at Object.trigger (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:1598:9)","    at Function.APICall.complete (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:1754:15)","    at Timeout._onTimeout (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:1549:17)","    at ontimeout (timers.js:380:14)","    at tryOnTimeout (timers.js:244:5)"],"level":"error","message":"uncaughtException: billingEventObject.updatebillingObject is not a function","timestamp":"4/25/2017, 10:15:37 AM"}
+{"error_description":"token not found, expired or invalid","error":"invalid_grant","level":"error","message":"","timestamp":"4/25/2017, 10:17:27 AM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/25/2017, 10:17:50 AM"}
+{"level":"info","message":"User profile found and returned","timestamp":"4/25/2017, 10:17:50 AM"}
+{"level":"info","message":"Search request completed successfully","timestamp":"4/25/2017, 10:17:50 AM"}
+{"level":"info","message":"success => It took 172 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/user","timestamp":"4/25/2017, 10:17:50 AM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/25/2017, 10:20:02 AM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"4/25/2017, 10:20:03 AM"}
+{"level":"info","message":"Billing event created successfully","timestamp":"4/25/2017, 10:20:04 AM"}
+{"level":"info","message":"success => It took 1310 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/25/2017, 10:20:04 AM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/25/2017, 10:20:48 AM"}
+{"level":"info","message":"success => It took 117 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/25/2017, 10:20:48 AM"}
+{"level":"info","message":"Login successful","timestamp":"4/25/2017, 10:44:58 AM"}
+{"date":"Tue Apr 25 2017 10:44:58 GMT-0400 (Eastern Daylight Time)","process":{"pid":11188,"uid":null,"gid":null,"cwd":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount","execPath":"C:\\Program Files\\nodejs\\node.exe","version":"v6.10.2","argv":["C:\\Program Files\\nodejs\\node.exe","C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\index.js"],"memoryUsage":{"rss":44888064,"heapTotal":24145920,"heapUsed":18693360,"external":113530}},"os":{"loadavg":[0,0,0],"uptime":236462.9170144},"trace":[{"column":32,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\lib\\billingEvent.js","function":"","line":55,"method":null,"native":false},{"column":20,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":"","line":1581,"method":null,"native":false},{"column":20,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":null,"line":1599,"method":null,"native":false},{"column":null,"file":null,"function":"Array.forEach","line":null,"method":"forEach","native":true},{"column":30,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":"each","line":2129,"method":null,"native":false},{"column":9,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":"Object.trigger","line":1598,"method":"trigger","native":false},{"column":15,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":"Function.APICall.complete","line":1754,"method":"APICall.complete","native":false},{"column":17,"file":"C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js","function":"Timeout._onTimeout","line":1549,"method":"_onTimeout","native":false},{"column":14,"file":"timers.js","function":"ontimeout","line":380,"method":null,"native":false},{"column":5,"file":"timers.js","function":"tryOnTimeout","line":244,"method":null,"native":false}],"stack":["TypeError: billingEventObject.updatebillingObject is not a function","    at Object.<anonymous> (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\lib\\billingEvent.js:55:32)","    at Object.<anonymous> (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:1581:20)","    at C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:1599:20","    at Array.forEach (native)","    at each (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:2129:30)","    at Object.trigger (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:1598:9)","    at Function.APICall.complete (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:1754:15)","    at Timeout._onTimeout (C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\node_modules\\cloudmine\\js\\cloudmine.js:1549:17)","    at ontimeout (timers.js:380:14)","    at tryOnTimeout (timers.js:244:5)"],"level":"error","message":"uncaughtException: billingEventObject.updatebillingObject is not a function","timestamp":"4/25/2017, 10:44:58 AM"}
+{"level":"info","message":"Login successful","timestamp":"4/25/2017, 10:45:34 AM"}
+{"message":"external_id is not defined","stack":"ReferenceError: external_id is not defined\n    at C:\\Users\\bralla200\\LocalUserAccount\\UserAccount\\lib\\billingEventObject.js:124:61\n    at process._tickDomainCallback (internal/process/next_tick.js:135:7)","level":"error","timestamp":"4/25/2017, 10:45:35 AM"}
+{"level":"info","message":"failed => It took 869 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/25/2017, 10:45:35 AM"}
+{"level":"info","message":"Login successful","timestamp":"4/25/2017, 10:48:31 AM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"4/25/2017, 10:48:32 AM"}
+{"level":"info","message":"Billing Object updated successfully","timestamp":"4/25/2017, 10:48:32 AM"}
+{"level":"info","message":"success => It took 1815 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/25/2017, 10:48:32 AM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/25/2017, 10:48:41 AM"}
+{"level":"info","message":"success => It took 116 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/25/2017, 10:48:41 AM"}
+{"level":"info","message":"Login successful","timestamp":"4/25/2017, 11:03:25 AM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"4/25/2017, 11:03:25 AM"}
+{"level":"info","message":"Billing Object updated successfully","timestamp":"4/25/2017, 11:03:26 AM"}
+{"level":"info","message":"success => It took 1277 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/25/2017, 11:03:26 AM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/25/2017, 11:03:43 AM"}
+{"level":"info","message":"success => It took 80 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/25/2017, 11:03:43 AM"}

@@ -13,7 +13,8 @@
     "top_level_schema": ["phones", "email", "password", "first_name", "last_name", "address1", "address2", "city",
       "state", "zipcode", "birthdate", "role", "status", "effective_date", "reason", "full_name",
       "username", "tenant_id", "relationship", "external_id", "member_external_id", "caremanager_external_id", "cch_id"],
-    "service_order_schema": ["effective_date", "service_order_id", "operation_type", "service_code", "external_id"]
+    "service_order_schema": ["effective_date", "service_order_id", "operation_type", "service_code", "external_id"],
+    "billing_event_schema":["tenant_id","cch_id","event_type","event_details", "time_stamp"]
   },
   "cch":{
     "domain": "cch.org",
@@ -24,4 +25,10 @@
     "app_id": "50081a21f79f5840329a33ee3a97e2e7",
     "api_key": "7090bef8ea404fd8b25970806d2d30f3"
   }
+
+ /* //my app id
+  "cloudmine": {
+    "app_id": "bf8ce1330b95534cb5ba217f48970005",
+    "api_key": "9b7ac754827f4f26a3bbe4446444a50d"
+  }*/
 }

@@ -41,3 +41,4 @@ Following are the REST endpoint for this app.
 ``` app_version=$(git describe --abbrev=0 --tags); cat release_template.json > release.json; sed -ie "s/{GIT_COMMIT}/$(git log --format="%H" -n 1)/g; s/{APP_VERSION}/${app_version}/g;" release.json; zip -r ../${app_version}.zip . -x *.git* -x *node_modules* -x *.idea* -x *.cm* -x *.log* ```
 
 ```env=development;app_version=$(git describe --abbrev=0 --tags); cat release_template.json > release.json; sed -ie "s/{GIT_COMMIT}/$(git log --format="%H" -n 1)/g; s/{GIT_COMMIT}/$(git log --format="%H" -n 1)/g; s/{APP_VERSION}/${app_version}/g; s/{ENV}/${env}/g; s/{ENV}/${env}/g;" release.json; sed -ie "s/NODE_ENV=.*;/NODE_ENV=${env};/g;" package.json; zip -r ../${app_version}-${env}.zip . -x *.git* -x *node_modules* -x *.idea* -x *.cm* -x *.log*```
+# BillingSample
