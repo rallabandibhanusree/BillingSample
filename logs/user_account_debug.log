@@ -304,3 +304,210 @@
 {"level":"info","message":"success => It took 1277 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/25/2017, 11:03:26 AM"}
 {"level":"info","message":"No need to create WS object again","timestamp":"4/25/2017, 11:03:43 AM"}
 {"level":"info","message":"success => It took 80 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/25/2017, 11:03:43 AM"}
+{"error_description":"token not found, expired or invalid","error":"invalid_grant","level":"error","message":"","timestamp":"4/26/2017, 12:36:10 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/26/2017, 12:36:34 PM"}
+{"level":"info","message":"success => It took 1090 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 12:36:35 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/26/2017, 12:44:55 PM"}
+{"level":"info","message":"success => It took 653 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 12:44:55 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 12:48:41 PM"}
+{"level":"info","message":"success => It took 114 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 12:48:41 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 12:48:53 PM"}
+{"level":"info","message":"success => It took 97 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 12:48:53 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 12:49:08 PM"}
+{"level":"info","message":"success => It took 98 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 12:49:08 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 12:49:21 PM"}
+{"level":"info","message":"success => It took 87 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 12:49:21 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 12:49:30 PM"}
+{"level":"info","message":"success => It took 95 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 12:49:30 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 12:50:44 PM"}
+{"level":"info","message":"success => It took 119 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 12:50:44 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/26/2017, 3:01:23 PM"}
+{"level":"info","message":"success => It took 675 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 3:01:23 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/26/2017, 3:51:54 PM"}
+{"level":"info","message":"success => It took 656 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 3:51:54 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 3:52:18 PM"}
+{"level":"info","message":"success => It took 119 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 3:52:18 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 3:55:58 PM"}
+{"level":"debug","message":"User profile doesn't exist","timestamp":"4/26/2017, 3:55:59 PM"}
+{"level":"info","message":"Search request completed successfully","timestamp":"4/26/2017, 3:55:59 PM"}
+{"level":"info","message":"failed => It took 330 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/user","timestamp":"4/26/2017, 3:55:59 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 3:56:11 PM"}
+{"level":"info","message":"User profile found and returned","timestamp":"4/26/2017, 3:56:11 PM"}
+{"level":"info","message":"Search request completed successfully","timestamp":"4/26/2017, 3:56:11 PM"}
+{"level":"info","message":"success => It took 217 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/user","timestamp":"4/26/2017, 3:56:11 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/26/2017, 4:24:41 PM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"4/26/2017, 4:24:42 PM"}
+{"level":"info","message":"Billing event created successfully","timestamp":"4/26/2017, 4:24:42 PM"}
+{"level":"info","message":"success => It took 1086 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 4:24:42 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 4:24:42 PM"}
+{"level":"info","message":"success => It took 108 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 4:24:42 PM"}
+{"error_description":"token not found, expired or invalid","error":"invalid_grant","level":"error","message":"","timestamp":"4/26/2017, 8:33:38 PM"}
+{"error_description":"token not found, expired or invalid","error":"invalid_grant","level":"error","message":"","timestamp":"4/26/2017, 8:33:38 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/26/2017, 8:34:43 PM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"4/26/2017, 8:34:44 PM"}
+{"level":"info","message":"Billing event created successfully","timestamp":"4/26/2017, 8:34:44 PM"}
+{"level":"info","message":"success => It took 2275 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:34:44 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 8:34:45 PM"}
+{"level":"info","message":"success => It took 143 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:34:45 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 8:35:30 PM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"4/26/2017, 8:35:31 PM"}
+{"level":"info","message":"Billing event created successfully","timestamp":"4/26/2017, 8:35:31 PM"}
+{"level":"info","message":"success => It took 1013 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:35:31 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 8:35:31 PM"}
+{"level":"info","message":"success => It took 134 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:35:31 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 8:37:03 PM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"4/26/2017, 8:37:04 PM"}
+{"level":"info","message":"Billing event created successfully","timestamp":"4/26/2017, 8:37:04 PM"}
+{"level":"info","message":"success => It took 1027 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:37:04 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 8:37:05 PM"}
+{"level":"info","message":"success => It took 204 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:37:05 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 8:38:46 PM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"4/26/2017, 8:38:47 PM"}
+{"level":"info","message":"Billing event created successfully","timestamp":"4/26/2017, 8:38:48 PM"}
+{"level":"info","message":"success => It took 1131 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:38:48 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 8:38:58 PM"}
+{"level":"info","message":"success => It took 262 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:38:58 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 8:39:17 PM"}
+{"level":"info","message":"success => It took 153 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:39:18 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 8:39:29 PM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"4/26/2017, 8:39:30 PM"}
+{"level":"info","message":"Billing event created successfully","timestamp":"4/26/2017, 8:39:30 PM"}
+{"level":"info","message":"success => It took 1065 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:39:30 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 8:39:30 PM"}
+{"level":"info","message":"success => It took 314 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:39:30 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 8:41:48 PM"}
+{"level":"info","message":"success => It took 235 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:41:48 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 8:42:34 PM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"4/26/2017, 8:42:35 PM"}
+{"level":"info","message":"Billing event created successfully","timestamp":"4/26/2017, 8:42:35 PM"}
+{"level":"info","message":"success => It took 1106 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:42:35 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 8:43:40 PM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"4/26/2017, 8:43:41 PM"}
+{"level":"info","message":"Billing event created successfully","timestamp":"4/26/2017, 8:43:41 PM"}
+{"level":"info","message":"success => It took 1350 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:43:41 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/26/2017, 8:45:11 PM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"4/26/2017, 8:45:12 PM"}
+{"level":"info","message":"Billing event created successfully","timestamp":"4/26/2017, 8:45:12 PM"}
+{"level":"info","message":"success => It took 2205 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:45:12 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 8:46:18 PM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"4/26/2017, 8:46:20 PM"}
+{"level":"info","message":"Billing event created successfully","timestamp":"4/26/2017, 8:46:20 PM"}
+{"level":"info","message":"success => It took 1332 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:46:20 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 8:46:20 PM"}
+{"level":"info","message":"success => It took 192 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:46:20 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 8:50:36 PM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"4/26/2017, 8:50:40 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 8:50:41 PM"}
+{"level":"info","message":"Billing event created successfully","timestamp":"4/26/2017, 8:50:41 PM"}
+{"level":"info","message":"success => It took 5070 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:50:41 PM"}
+{"level":"info","message":"success => It took 527 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:50:41 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/26/2017, 8:59:21 PM"}
+{"level":"info","message":"success => It took 4054 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:59:21 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 8:59:47 PM"}
+{"level":"info","message":"success => It took 573 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 8:59:48 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 9:00:13 PM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"4/26/2017, 9:00:14 PM"}
+{"level":"info","message":"Billing Object updated successfully","timestamp":"4/26/2017, 9:00:14 PM"}
+{"level":"info","message":"success => It took 1245 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 9:00:14 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 9:00:59 PM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"4/26/2017, 9:01:03 PM"}
+{"level":"info","message":"Billing Object updated successfully","timestamp":"4/26/2017, 9:01:04 PM"}
+{"level":"info","message":"success => It took 4119 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 9:01:04 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/26/2017, 9:01:04 PM"}
+{"level":"info","message":"success => It took 182 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/26/2017, 9:01:04 PM"}
+{"level":"info","message":"Login successful","timestamp":"4/30/2017, 8:37:20 PM"}
+{"level":"info","message":"success => It took 1322 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/30/2017, 8:37:20 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/30/2017, 8:41:20 PM"}
+{"level":"error","message":"A billing event already exist with this cch_id","timestamp":"4/30/2017, 8:41:20 PM"}
+{"level":"info","message":"failed => It took 191 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/30/2017, 8:41:20 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/30/2017, 8:41:41 PM"}
+{"level":"error","message":"id,  Not allowed to have Keys in the billing event schema, event_type cannot be undefined or empty, event_details cannot be undefined or empty","timestamp":"4/30/2017, 8:41:41 PM"}
+{"level":"info","message":"failed => It took 237 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/30/2017, 8:41:41 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/30/2017, 8:41:59 PM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"4/30/2017, 8:42:00 PM"}
+{"level":"info","message":"Billing Object updated successfully","timestamp":"4/30/2017, 8:42:00 PM"}
+{"level":"info","message":"success => It took 1256 milliseconds for the PUT call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/30/2017, 8:42:00 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"4/30/2017, 8:45:31 PM"}
+{"level":"info","message":"success => It took 361 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"4/30/2017, 8:45:31 PM"}
+{"level":"info","message":"Login successful","timestamp":"5/1/2017, 12:11:57 PM"}
+{"level":"info","message":"User profile found and returned","timestamp":"5/1/2017, 12:11:57 PM"}
+{"level":"info","message":"Search request completed successfully","timestamp":"5/1/2017, 12:11:57 PM"}
+{"level":"info","message":"success => It took 689 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/userstatus","timestamp":"5/1/2017, 12:11:57 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"5/1/2017, 12:12:44 PM"}
+{"400":{"errors":["Invalid query: Failed to match sequence (root:MULTI_OBJECT_KEY_MATCHER KEY_CHAIN{0, }) at line 1 char 1."]},"level":"error","message":"","timestamp":"5/1/2017, 12:12:44 PM"}
+{"level":"error","message":"Error at getUserProfileBasedOnReq: searching as [profile.cch_id=02c5a573-d5f5-4454-b395-be7fc6868b4f]","timestamp":"5/1/2017, 12:12:44 PM"}
+{"level":"info","message":"Search request completed successfully","timestamp":"5/1/2017, 12:12:44 PM"}
+{"level":"info","message":"failed => It took 103 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/userstatus","timestamp":"5/1/2017, 12:12:44 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"5/1/2017, 12:13:16 PM"}
+{"level":"info","message":"User profile found and returned","timestamp":"5/1/2017, 12:13:16 PM"}
+{"level":"info","message":"Search request completed successfully","timestamp":"5/1/2017, 12:13:16 PM"}
+{"level":"info","message":"success => It took 102 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/userstatus","timestamp":"5/1/2017, 12:13:16 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"5/1/2017, 12:13:18 PM"}
+{"level":"info","message":"User profile found and returned","timestamp":"5/1/2017, 12:13:18 PM"}
+{"level":"info","message":"Search request completed successfully","timestamp":"5/1/2017, 12:13:18 PM"}
+{"level":"info","message":"success => It took 131 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/userstatus","timestamp":"5/1/2017, 12:13:18 PM"}
+{"500":{"errors":["An unknown exception has occurred.  Please refer to incident 7F000001:C071_7F000001:22B8_590794AA_8E26:0A5F when contacting CloudMine."]},"level":"error","message":"","timestamp":"5/1/2017, 4:03:57 PM"}
+{"level":"info","message":"Login successful","timestamp":"5/2/2017, 9:56:00 AM"}
+{"level":"info","message":"User profile found and returned","timestamp":"5/2/2017, 9:56:00 AM"}
+{"level":"info","message":"Search request completed successfully","timestamp":"5/2/2017, 9:56:00 AM"}
+{"level":"info","message":"success => It took 692 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/user","timestamp":"5/2/2017, 9:56:00 AM"}
+{"level":"info","message":"Login successful","timestamp":"5/2/2017, 10:13:06 AM"}
+{"level":"error","message":"A billing event already exist with this cch_id","timestamp":"5/2/2017, 10:13:08 AM"}
+{"level":"info","message":"failed => It took 2149 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"5/2/2017, 10:13:08 AM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"5/2/2017, 10:13:34 AM"}
+{"level":"error","message":"A billing event already exist with this cch_id","timestamp":"5/2/2017, 10:13:34 AM"}
+{"level":"info","message":"failed => It took 213 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"5/2/2017, 10:13:34 AM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"5/2/2017, 10:16:36 AM"}
+{"level":"error","message":"Error searching service_order_id  [object Object]","timestamp":"5/2/2017, 10:16:48 AM"}
+{"level":"info","message":"failed => It took 12041 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"5/2/2017, 10:16:48 AM"}
+{"level":"info","message":"Login successful","timestamp":"5/2/2017, 10:20:33 AM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"5/2/2017, 10:20:33 AM"}
+{"level":"info","message":"Billing event created successfully","timestamp":"5/2/2017, 10:20:34 AM"}
+{"level":"info","message":"success => It took 1303 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"5/2/2017, 10:20:34 AM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"5/2/2017, 10:23:27 AM"}
+{"level":"error","message":"Error searching billing event  [object Object]","timestamp":"5/2/2017, 10:23:27 AM"}
+{"400":{"errors":["Invalid query: Failed to match sequence (root:MULTI_OBJECT_KEY_MATCHER KEY_CHAIN{0, }) at line 1 char 1."]},"level":"error","message":"","timestamp":"5/2/2017, 10:23:27 AM"}
+{"level":"info","message":"failed => It took 91 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"5/2/2017, 10:23:27 AM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"5/2/2017, 10:24:38 AM"}
+{"level":"info","message":"success => It took 117 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"5/2/2017, 10:24:38 AM"}
+{"level":"info","message":"Login successful","timestamp":"5/2/2017, 10:37:16 AM"}
+{"level":"error","message":"A billing event already exist with this cch_id","timestamp":"5/2/2017, 10:37:16 AM"}
+{"level":"info","message":"failed => It took 678 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"5/2/2017, 10:37:16 AM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"5/2/2017, 10:40:08 AM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"5/2/2017, 10:40:08 AM"}
+{"level":"info","message":"Billing event created successfully","timestamp":"5/2/2017, 10:40:08 AM"}
+{"level":"info","message":"success => It took 935 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"5/2/2017, 10:40:08 AM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"5/2/2017, 10:40:36 AM"}
+{"level":"info","message":"success => It took 98 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"5/2/2017, 10:40:36 AM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"5/2/2017, 10:41:14 AM"}
+{"level":"info","message":"success => It took 120 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"5/2/2017, 10:41:14 AM"}
+{"error_description":"token not found, expired or invalid","error":"invalid_grant","level":"error","message":"","timestamp":"5/2/2017, 12:28:45 PM"}
+{"level":"info","message":"Login successful","timestamp":"5/2/2017, 12:29:07 PM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"5/2/2017, 12:29:09 PM"}
+{"level":"info","message":"Billing event created successfully","timestamp":"5/2/2017, 12:29:09 PM"}
+{"level":"info","message":"success => It took 2731 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"5/2/2017, 12:29:09 PM"}
+{"error_description":"token not found, expired or invalid","error":"invalid_grant","level":"error","message":"","timestamp":"5/2/2017, 12:29:37 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"5/2/2017, 12:29:53 PM"}
+{"level":"info","message":"success => It took 119 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"5/2/2017, 12:29:53 PM"}
+{"level":"info","message":"Login successful","timestamp":"5/2/2017, 2:03:25 PM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"5/2/2017, 2:03:26 PM"}
+{"level":"info","message":"Billing event created successfully","timestamp":"5/2/2017, 2:03:26 PM"}
+{"level":"info","message":"success => It took 1617 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"5/2/2017, 2:03:26 PM"}
+{"level":"info","message":"Login successful","timestamp":"5/2/2017, 2:12:45 PM"}
+{"level":"info","message":"failed => It took 776 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"5/2/2017, 2:12:45 PM"}
+{"level":"info","message":"User profile found and returned","timestamp":"5/2/2017, 2:12:45 PM"}
+{"level":"info","message":"Search request completed successfully","timestamp":"5/2/2017, 2:12:45 PM"}
+{"level":"info","message":"Login successful","timestamp":"5/2/2017, 2:16:08 PM"}
+{"level":"info","message":"Login successful","timestamp":"5/2/2017, 2:49:22 PM"}
+{"level":"info","message":"ACL created for Billing event","timestamp":"5/2/2017, 2:49:23 PM"}
+{"level":"info","message":"Billing event created successfully","timestamp":"5/2/2017, 2:49:23 PM"}
+{"level":"info","message":"success => It took 1410 milliseconds for the POST call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"5/2/2017, 2:49:23 PM"}
+{"error_description":"token not found, expired or invalid","error":"invalid_grant","level":"error","message":"","timestamp":"5/2/2017, 2:51:22 PM"}
+{"level":"info","message":"Login successful","timestamp":"5/2/2017, 2:51:46 PM"}
+{"level":"info","message":"success => It took 553 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"5/2/2017, 2:51:46 PM"}
+{"level":"info","message":"Login successful","timestamp":"5/2/2017, 3:02:30 PM"}
+{"level":"info","message":"success => It took 1082 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"5/2/2017, 3:02:30 PM"}
+{"level":"info","message":"No need to create WS object again","timestamp":"5/2/2017, 3:02:56 PM"}
+{"level":"info","message":"success => It took 104 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"5/2/2017, 3:02:56 PM"}
+{"level":"info","message":"Login successful","timestamp":"5/2/2017, 3:04:51 PM"}
+{"level":"info","message":"success => It took 746 milliseconds for the GET call at this endpoint /v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing","timestamp":"5/2/2017, 3:04:51 PM"}

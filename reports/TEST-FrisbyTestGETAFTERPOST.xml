@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Frisby Test: GET AFTER POST" errors="0" tests="1" failures="0" time="0.616" timestamp="2017-04-26T20:50:41">
+  <testcase classname="Frisby Test: GET AFTER POST" name="
+	[ GET http://localhost:4545/v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing?cch_id=02c5a573-d5f5-4454-b395-be7fc6868b4f ]" time="0.615"></testcase>
+</testsuite>
+</testsuites>

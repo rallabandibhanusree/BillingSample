@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Frisby Test: PUT - EDIT THE BILLING OBJECT" errors="0" tests="1" failures="0" time="4.198" timestamp="2017-04-26T21:00:59">
+  <testcase classname="Frisby Test: PUT - EDIT THE BILLING OBJECT" name="
+	[ PUT http://localhost:4545/v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing?cch_id=02c5a573-d5f5-4454-b395-be7fc6868b4f ]" time="4.194"></testcase>
+</testsuite>
+</testsuites>

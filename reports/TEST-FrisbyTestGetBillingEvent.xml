@@ -1,0 +1,37 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<testsuites>
+<testsuite name="Frisby Test: Get Billing Event" errors="0" tests="1" failures="1" time="5.07" timestamp="2017-04-26T20:50:36">
+  <testcase classname="Frisby Test: Get Billing Event" name="
+	[ POST http://localhost:4545/v1/app/96fc95210061884d1aab3e4204ff3a1e/run/billing ]" time="5.065"><failure type="expect" message="Expected 500 to equal 201.">Error: Expected 500 to equal 201.
+    at new jasmine.ExpectationResult (C:\Users\bralla200\AppData\Roaming\npm\node_modules\jasmine-node\lib\jasmine-node/jasmine-1.3.1.js:114:32)
+    at .toEqual (C:\Users\bralla200\AppData\Roaming\npm\node_modules\jasmine-node\lib\jasmine-node/jasmine-1.3.1.js:1316:29)
+    at .&amp;lt;anonymous&amp;gt; (C:\Users\bralla200\LocalUserAccount\UserAccount\node_modules\frisby\lib\frisby.js:493:42)
+    at .&amp;lt;anonymous&amp;gt; (C:\Users\bralla200\LocalUserAccount\UserAccount\node_modules\frisby\lib\frisby.js:1074:43)
+    at jasmine.Block.execute (C:\Users\bralla200\AppData\Roaming\npm\node_modules\jasmine-node\lib\jasmine-node/jasmine-1.3.1.js:1145:17)
+    at jasmine.Queue.next_ (C:\Users\bralla200\AppData\Roaming\npm\node_modules\jasmine-node\lib\jasmine-node/jasmine-1.3.1.js:2177:31)
+    at Timeout._onTimeout (C:\Users\bralla200\AppData\Roaming\npm\node_modules\jasmine-node\lib\jasmine-node/jasmine-1.3.1.js:2167:18)
+    at ontimeout (timers.js:380:14)
+    at tryOnTimeout (timers.js:244:5)
+    at Timer.listOnTimeout (timers.js:214:5)</failure><failure type="expect" message="Error: Header &amp;apos;content-type&amp;apos; not present in HTTP response">Error: Header &amp;apos;content-type&amp;apos; not present in HTTP response
+    at .&amp;lt;anonymous&amp;gt; (C:\Users\bralla200\LocalUserAccount\UserAccount\node_modules\frisby\lib\frisby.js:520:13)
+    at .&amp;lt;anonymous&amp;gt; (C:\Users\bralla200\LocalUserAccount\UserAccount\node_modules\frisby\lib\frisby.js:1074:43)
+    at jasmine.Block.execute (C:\Users\bralla200\AppData\Roaming\npm\node_modules\jasmine-node\lib\jasmine-node/jasmine-1.3.1.js:1145:17)
+    at jasmine.Queue.next_ (C:\Users\bralla200\AppData\Roaming\npm\node_modules\jasmine-node\lib\jasmine-node/jasmine-1.3.1.js:2177:31)
+    at Timeout._onTimeout (C:\Users\bralla200\AppData\Roaming\npm\node_modules\jasmine-node\lib\jasmine-node/jasmine-1.3.1.js:2167:18)
+    at ontimeout (timers.js:380:14)
+    at tryOnTimeout (timers.js:244:5)
+    at Timer.listOnTimeout (timers.js:214:5)</failure><failure type="expect" message="Error: Error parsing JSON string: Unexpected token D in JSON at position 0
+	Given: Destination URL may be down or URL is invalid, Error: ESOCKETTIMEDOUT">Error: Error parsing JSON string: Unexpected token D in JSON at position 0
+	Given: Destination URL may be down or URL is invalid, Error: ESOCKETTIMEDOUT
+    at _jsonParse (C:\Users\bralla200\LocalUserAccount\UserAccount\node_modules\frisby\lib\frisby.js:1219:11)
+    at Frisby.&amp;lt;anonymous&amp;gt; (C:\Users\bralla200\LocalUserAccount\UserAccount\node_modules\frisby\lib\frisby.js:910:30)
+    at Frisby.&amp;lt;anonymous&amp;gt; (C:\Users\bralla200\LocalUserAccount\UserAccount\node_modules\frisby\lib\frisby.js:940:8)
+    at .&amp;lt;anonymous&amp;gt; (C:\Users\bralla200\LocalUserAccount\UserAccount\node_modules\frisby\lib\frisby.js:1112:18)
+    at jasmine.Block.execute (C:\Users\bralla200\AppData\Roaming\npm\node_modules\jasmine-node\lib\jasmine-node/jasmine-1.3.1.js:1145:17)
+    at jasmine.Queue.next_ (C:\Users\bralla200\AppData\Roaming\npm\node_modules\jasmine-node\lib\jasmine-node/jasmine-1.3.1.js:2177:31)
+    at Timeout._onTimeout (C:\Users\bralla200\AppData\Roaming\npm\node_modules\jasmine-node\lib\jasmine-node/jasmine-1.3.1.js:2167:18)
+    at ontimeout (timers.js:380:14)
+    at tryOnTimeout (timers.js:244:5)
+    at Timer.listOnTimeout (timers.js:214:5)</failure></testcase>
+</testsuite>
+</testsuites>
